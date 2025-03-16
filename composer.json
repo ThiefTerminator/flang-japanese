@@ -27,7 +27,8 @@
                 "backgroundColor": "#00247d",
                 "backgroundSize": "cover",
                 "backgroundPosition": "center"
-            }
+            },
+            "locale": "ja"
         },
         "flarum-locale": {
             "code": "ja",

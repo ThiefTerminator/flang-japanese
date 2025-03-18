@@ -15,6 +15,7 @@
     ],
     "extra": {
         "flarum-extension": {
+            "id": "thiefterminator-flarum-japanese",
             "title": "Japanese",
             "category": "language",
             "info": {

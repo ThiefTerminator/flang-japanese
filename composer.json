@@ -15,7 +15,7 @@
     ],
     "extra": {
         "flarum-extension": {
-            "title": "Flarum Japanese",
+            "title": "Japanese",
             "category": "language",
             "icon": {
                 "image": "icon.svg",

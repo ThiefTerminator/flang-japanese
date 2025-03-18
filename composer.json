@@ -1,5 +1,5 @@
 {
-    "name": "thiefterminator/flarum-japanese",
+    "name": "thiefterminator/flarum-lang-japanese",
     "type": "flarum-extension",
     "description": "Japanese language pack.",
     "keywords": ["locale", "japanese"],
